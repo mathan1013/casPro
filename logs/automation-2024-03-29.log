@@ -1,0 +1,65 @@
+17:33:02.571 [main] INFO  TestBase.BaseClass - Validating User Information
+17:33:02.740 [main] INFO  TestBase.BaseClass - Clicked on One Cognizant
+17:33:02.740 [main] INFO  TestBase.BaseClass - Test Passed
+17:33:02.741 [main] DEBUG TestBase.BaseClass - Application logs end.......
+17:33:02.744 [main] INFO  TestBase.BaseClass - **** Finished TC_1_ValidateUser ****
+17:33:02.778 [main] INFO  TestBase.BaseClass - **** Starting TC_2_ValidateWelcomeMessage ****
+17:33:02.778 [main] DEBUG TestBase.BaseClass - Application logs started......
+17:33:11.564 [main] INFO  TestBase.BaseClass - Clicked on Search
+17:33:11.771 [main] INFO  TestBase.BaseClass - Clicked on GSD
+17:33:28.201 [main] INFO  TestBase.BaseClass - Validating Welcome message
+17:33:28.201 [main] INFO  TestBase.BaseClass - Test Passed
+17:33:28.201 [main] DEBUG TestBase.BaseClass - Application logs end.......
+17:33:28.201 [main] INFO  TestBase.BaseClass - **** Finished TC_2_ValidateWelcomeMessage ****
+17:33:28.207 [main] INFO  TestBase.BaseClass - **** Starting TC_3_ValidateLanguageAndCountry ****
+17:33:28.207 [main] DEBUG TestBase.BaseClass - Application logs started......
+17:33:28.261 [main] INFO  TestBase.BaseClass - Validating Default Country
+17:33:28.556 [main] INFO  TestBase.BaseClass - Validating Default Language
+17:33:28.565 [main] INFO  TestBase.BaseClass - Test Passed
+17:33:28.565 [main] DEBUG TestBase.BaseClass - Application logs end.......
+17:33:28.565 [main] INFO  TestBase.BaseClass - **** Finished TC_2_ValidateLanguageAndCountry ****
+17:33:28.571 [main] INFO  TestBase.BaseClass - **** Starting TC_4_ValidateLanguageList ****
+17:33:28.571 [main] DEBUG TestBase.BaseClass - Application logs started......
+17:33:31.983 [main] INFO  TestBase.BaseClass - Validating Language List
+17:33:31.983 [main] INFO  TestBase.BaseClass - Test Passed
+17:33:31.983 [main] DEBUG TestBase.BaseClass - Application logs end.......
+17:33:31.983 [main] INFO  TestBase.BaseClass - **** Finished TC_4_ValidateLanguageList ****
+17:33:31.986 [main] INFO  TestBase.BaseClass - **** Starting TC_5_ValidateGSDDetails ****
+17:33:31.986 [main] DEBUG TestBase.BaseClass - Application logs started......
+17:33:51.365 [main] INFO  TestBase.BaseClass - Validating Tooltips
+17:33:51.365 [main] INFO  TestBase.BaseClass - Test Passed
+17:33:51.365 [main] DEBUG TestBase.BaseClass - Application logs end.......
+17:33:51.366 [main] INFO  TestBase.BaseClass - **** Finished TC_5_ValidateGSDDetails ****
+17:48:12.414 [main] INFO  TestBase.BaseClass - **** Starting TC_1_ValidateUser ****
+17:48:12.429 [main] DEBUG TestBase.BaseClass - Application logs started......
+17:48:18.856 [main] INFO  TestBase.BaseClass - Clicked on User Information
+17:48:21.936 [main] INFO  TestBase.BaseClass - Validating User Information
+17:48:22.100 [main] INFO  TestBase.BaseClass - Clicked on One Cognizant
+17:48:22.104 [main] INFO  TestBase.BaseClass - Test Passed
+17:48:22.104 [main] DEBUG TestBase.BaseClass - Application logs end.......
+17:48:22.106 [main] INFO  TestBase.BaseClass - **** Finished TC_1_ValidateUser ****
+17:48:22.146 [main] INFO  TestBase.BaseClass - **** Starting TC_2_ValidateWelcomeMessage ****
+17:48:22.148 [main] DEBUG TestBase.BaseClass - Application logs started......
+17:48:30.581 [main] INFO  TestBase.BaseClass - Clicked on Search
+17:48:30.726 [main] INFO  TestBase.BaseClass - Clicked on GSD
+17:48:48.557 [main] INFO  TestBase.BaseClass - Validating Welcome message
+17:48:48.557 [main] INFO  TestBase.BaseClass - Test Passed
+17:48:48.557 [main] DEBUG TestBase.BaseClass - Application logs end.......
+17:48:48.558 [main] INFO  TestBase.BaseClass - **** Finished TC_2_ValidateWelcomeMessage ****
+17:48:48.562 [main] INFO  TestBase.BaseClass - **** Starting TC_3_ValidateLanguageAndCountry ****
+17:48:48.562 [main] DEBUG TestBase.BaseClass - Application logs started......
+17:48:48.611 [main] INFO  TestBase.BaseClass - Validating Default Country
+17:48:48.839 [main] INFO  TestBase.BaseClass - Validating Default Language
+17:48:48.844 [main] INFO  TestBase.BaseClass - Test Passed
+17:48:48.844 [main] DEBUG TestBase.BaseClass - Application logs end.......
+17:48:48.844 [main] INFO  TestBase.BaseClass - **** Finished TC_2_ValidateLanguageAndCountry ****
+17:48:48.847 [main] INFO  TestBase.BaseClass - **** Starting TC_4_ValidateLanguageList ****
+17:48:48.847 [main] DEBUG TestBase.BaseClass - Application logs started......
+17:48:49.108 [main] INFO  TestBase.BaseClass - Validating Language List
+17:48:49.109 [main] INFO  TestBase.BaseClass - Test Passed
+17:48:49.109 [main] DEBUG TestBase.BaseClass - Application logs end.......
+17:48:49.109 [main] INFO  TestBase.BaseClass - **** Finished TC_4_ValidateLanguageList ****
+17:48:49.112 [main] INFO  TestBase.BaseClass - **** Starting TC_5_ValidateGSDDetails ****
+17:48:49.112 [main] DEBUG TestBase.BaseClass - Application logs started......
+17:49:08.438 [main] INFO  TestBase.BaseClass - Validating Tooltips
+17:49:08.439 [main] INFO  TestBase.BaseClass - Test Passed
